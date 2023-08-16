@@ -1,59 +1,25 @@
 ---
 layout: archive
-title: "CV"
+title: "CV and Contact Information"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+### CV
+Please [click here](https://www.dropbox.com/scl/fi/v5ya0xrlj138l084hd21f/CV-Aug-2023.pdf?rlkey=8n2m3lhb0ybpthx0gu4ghxpii&dl=0) for my CV.
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### Email
+[collin[dot]schumock[at]yale[dot]edu](mailto:collin.schumock@yale.edu)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Mailing Address
+Political Science\\
+Yale University\\
+PO Box 208301\\
+New Haven, CT 06520-8301
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### ISPS Office
+ISPS, Room C321\\
+77 Prospect Street\\
+New Haven, CT 06511
