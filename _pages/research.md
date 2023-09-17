@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ### Working Papers
-(Please [contact me](mailto:collin.schumock@yale.edu) for a draft.)
+
 
 * "Term Limits and Strategic Challenger Entry."
     * _Abstract_:  I develop a political agency model with strategic challengers to examine the accountability effects of term limits in the presence of strategic challenger entry. Analysis of the game reveals that term limits may lead strong challengers to delay entering, preferring to run in an open seat race over running against an Incumbent.  This challenger behavior leads the incumbent to exert less effort while in office under certain conditions.  However, this strategic delay behavior disappears when term limits are removed, thereby also removing this concern about accountability.  This contributes to our understanding of how term limits interact with, and potentially interfere with, political accountability when challengers make strategic entry decisions.
