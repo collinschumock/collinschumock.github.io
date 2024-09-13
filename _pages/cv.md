@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### CV
-Please [click here](https://www.dropbox.com/scl/fi/v5ya0xrlj138l084hd21f/CV-Aug-2023.pdf?rlkey=8n2m3lhb0ybpthx0gu4ghxpii&dl=0) for my CV.
+Please [click here](https://www.dropbox.com/scl/fi/eh5ihuqqoof0vpei4hz55/Collin-Schumock-CV.pdf?rlkey=cjn61zghgiryxpa981aimwreu&dl=0) for my CV.
 
 ### Email
 [cschumo[at]ju[dot]edu](mailto:cschumo@ju.edu)
