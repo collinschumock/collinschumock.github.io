@@ -11,15 +11,15 @@ redirect_from:
 Please [click here](https://www.dropbox.com/scl/fi/v5ya0xrlj138l084hd21f/CV-Aug-2023.pdf?rlkey=8n2m3lhb0ybpthx0gu4ghxpii&dl=0) for my CV.
 
 ### Email
-[collin[dot]schumock[at]yale[dot]edu](mailto:collin.schumock@yale.edu)
+[cschumo[at]ju[dot]edu](mailto:cschumo@ju.edu)
 
 ### Mailing Address
-Political Science\\
-Yale University\\
-PO Box 208301\\
-New Haven, CT 06520-8301
+Jacksonville University\\
+2800 University Blvd N\\
+Jacksonville, FL 32211
 
-### ISPS Office
-ISPS, Room C321\\
-77 Prospect Street\\
-New Haven, CT 06511
+### Office
+Davis College of Business & Technology, Room 144\\
+Jacksonville University\\
+2800 University Blvd N\\
+Jacksonville, FL 32211
