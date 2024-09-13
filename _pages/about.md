@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome---I am a doctoral candidate in the [Department of Political Science](https://politicalscience.yale.edu/) at [Yale University](https://www.yale.edu/).  I am also affiliated with Yale's [Institution for Social and Policy Studies](https://isps.yale.edu/).  My research interests lie broadly in the areas of American political institutions, political economy, and special interest politics.  My research applies formal and quantitative methods to study these topics.
-
-For academic year 2023--2024 I am a Graduate Student Advisor for the [Program on Ethics, Politics and Economics](https://epe.yale.edu/).  
+Welcome---I am an Assistant Professor of Political Science and Public Policy in the [Department of Political Science](https://www.ju.edu/politicalscience/) and the [Public Policy Institute](https://www.ju.edu/publicpolicy/) at [Jacksonville University](https://www.ju.edu/).  My research interests lie broadly in the areas of American political institutions, political economy, and special interest politics.  My research applies formal and quantitative empirical methods to study these topics.  During the fall 2024 semester, I am teaching PPOL 511, Political Institutions, Processes and Public Policy, and PPOL 521, Statistics and Research Methods in Public Policy, for master's students.
