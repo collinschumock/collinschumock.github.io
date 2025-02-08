@@ -31,4 +31,4 @@ title: "Teaching"
  	* Spring 2021
 * _Section Leader_ for Game Theory & Political Science
 	* Undergraduate and graduate
- 	* Fall 2019, Fall 2020
+  	* Fall 2019, Fall 2020
