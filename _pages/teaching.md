@@ -20,6 +20,7 @@ title: "Teaching"
  	* Fall 2024
 * PPOL 697: Capstone:  Research Policy Thesis I
 	* Fall 2024
+   
 #### Yale University
 * _Graduate Student Advisor_ for the Program on Ethics, Politics and Economics, including The Senior Essay and The Yearlong Senior Essay
 	*  Fall 2022, Spring 2023, Fall 2023, Spring 2024
