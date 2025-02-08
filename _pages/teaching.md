@@ -20,7 +20,7 @@ title: "Teaching"
 - PPOL 521: Statistics and Research Methods in Public Policy
   	- An data-driven course that introduces students to statistics, causality, and programming in `R`
    	- Master's level
-    	- Fall 2024
+    - Fall 2024
 - PPOL 697: Capstone:  Research Policy Thesis I
 	- Master's level
  	- Fall 2024
