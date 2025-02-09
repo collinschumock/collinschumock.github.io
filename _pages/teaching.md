@@ -15,7 +15,7 @@ title: "Teaching"
 - PPOL 511: Political Institutions, Processes and Public Policy
 	- A game theory based course on political institutions and political economy (master's level; fall 2024)
 - PPOL 521: Statistics and Research Methods in Public Policy
-  	- An data-driven course that introduces students to statistics, causality, and programming in `R` (master's level; fall 2024)
+	- A data-driven course that introduces students to statistics, causality, and programming in `R` (master's level; fall 2024)
 - PPOL 697: Capstone:  Research Policy Thesis I
 	- First semester capstone advising (master's level; fall 2024)
    
