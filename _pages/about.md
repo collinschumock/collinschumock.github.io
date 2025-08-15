@@ -12,4 +12,4 @@ Welcome---I am an Assistant Professor of Political Science and Public Policy in 
 
 My research interests lie broadly in the areas of American political institutions, political economy, and special interest politics.  My research applies formal and quantitative empirical methods to study these topics.  
 
-During the spring 2025 semester, I am teaching PPOL 541, Public Policy Analysis, for master's students.  At Jacksonville University I also teach PPOL 511, Political Institutions, Processes and Public Policy, and PPOL 521, Statistics and Research Methods in Public Policy.
+During the Fall 2025 semester, I am teaching two sections of PPOL 511, Political Institutions, Processes and Public Policy, for master's students.  I also teach the following courses at Jacksonville University:  PPOL 521 (Statistics and Research Methods in Public Policy), PPOL 541 (Public Policy Analysis), and PPOL 651 (Special Topics: Game Theory for Public Policy).
